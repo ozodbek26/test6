@@ -4,7 +4,14 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">Zafar & Ozodbek</header>
+      <header className="App-header">
+        lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem
+        ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem
+        ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem
+        ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem
+        ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem
+        ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
+      </header>
     </div>
   );
 }
